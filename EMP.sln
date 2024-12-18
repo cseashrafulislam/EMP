@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.15
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EMP", "EMP\EMP.csproj", "{AD51D0CD-D26E-45FC-84DC-5AE2BF62F8C6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AD51D0CD-D26E-45FC-84DC-5AE2BF62F8C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD51D0CD-D26E-45FC-84DC-5AE2BF62F8C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD51D0CD-D26E-45FC-84DC-5AE2BF62F8C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD51D0CD-D26E-45FC-84DC-5AE2BF62F8C6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BDE8B1E3-3067-45B5-9E85-7BA32F16AA5E}
+	EndGlobalSection
+EndGlobal
