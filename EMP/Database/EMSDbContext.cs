@@ -23,7 +23,7 @@ namespace EMP.Database
 
             modelBuilder.Entity<Department>()
                 .HasRequired(e => e.Employees)
-                .WithMany(d => d.Employees)
+                .WithMany(d => d.Department)
                 .HasForeignKey(e => e.ManagerId);
 
             modelBuilder.Entity<PerformanceReview>()
